@@ -6,7 +6,7 @@
 String-searching algorithms, also known as string-matching algorithms are a type of string algorithms that tries to find a location within a larger string or text where one or more strings (also known as patterns) can be found.
 
 ### Algorithms
-- Naive approach Algorithm
+- Naive approach 
 - Knuth Moris Pratt Algorithm
 - Z Algorithm
 - Robin Karp Algorithm
